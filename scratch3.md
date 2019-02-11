@@ -14,9 +14,9 @@ Výsledek se příliš nezlepší, když si stránku Scratch 3 zmenšíme, proto
 ### Chyby
 
 ### Offline editor
-Ač se to zdá neuvěřitelné, stále všude není dostupný pevný internet a nebo na něj nelze spoléhat (při větším počtu připojených počítačů lehne router a podobně). Zvláště když děláme nějaké terénní akce, kde spoléháme na cizí připojení, je to obtížné. Offline editor tak byl a je důležitou součástí našich hodin i akcí. Protože máme učebnu vybavenou nízkonákladově, všechny počítače jedou na Linuxu. Nově však Offline [editor Linux nepodporuje](https://scratch.mit.edu/download), dostupné jsou zatím jen neoficiální (a trochu neohrabané) porty.
+Ač se to zdá neuvěřitelné, stále všude není dostupný pevný internet a nebo na něj nelze spoléhat (při větším počtu připojených počítačů lehne router a podobně). Zvláště když děláme nějaké terénní akce, kde spoléháme na cizí připojení, je to obtížné. Offline editor tak byl a je důležitou součástí našich hodin i akcí. Protože máme učebnu vybavenou nízkonákladově, všechny počítače jedou na Linuxu. Nově však [Offline editor Linux nepodporuje](https://scratch.mit.edu/download), dostupné jsou zatím jen neoficiální (a trochu neohrabané) porty.
 
-![](images/offline_editor.png)
+![](offline_editor.png)
 
 ### UI
 ### Seznamy
